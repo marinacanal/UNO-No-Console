@@ -17,11 +17,11 @@ Se o baralho acabar e nenhum jogador tiver esvaziado a mão, o jogo termina em e
 
 ## Como Rodar o Jogo
 1. Certifique-se de ter o Python instalado em seu sistema.
-2. Faça o download ou clone o repositório contendo o arquivo `jogo_uno.py`.
+2. Faça o download ou clone o repositório contendo o arquivo `uno.py`.
 3. Abra um terminal na pasta onde o arquivo está localizado.
 4. Execute o seguinte comando:
    ```bash
-   python jogo_uno.py
+   python uno.py
    ```
 5. Siga as instruções no terminal para iniciar e jogar o jogo.
 
